@@ -70,7 +70,7 @@
         <a href="https://drive.google.com/file/d/10cQ-qTSYqTFmVX-SFUUwH1ar7drUeFtX/view?usp=sharing" target="_blank">VGG16</a>
       </li>
       <li><strong>Videos:</strong>  
-        <a href="https://drive.google.com/file/d/1f5tfo4VPtz-6TdtjXPpEljSYcFIRjd1G/view?usp=sharing" target="_blank">Videos</a>
+        <a href="https://drive.google.com/drive/folders/12RvPEvBcuHnwfZgUldUH_oy8_5c-i_6V?usp=drive_link" target="_blank">Videos</a>
       </li>
       <li><strong>Diapositivas:</strong>  
         <a href="https://gamma.app/docs/Prediccion-Temprana-de-Enfermedades-de-la-Papa-ythc4bhet2pgwbj" target="_blank">Diapositivas</a>
