@@ -37,7 +37,7 @@
 
   <!-- TITULO Y BANNER -->
   <h1>Predicción Temprana de Enfermedad de la Papa</h1>
-  <img class="banner" src="ruta/a/tu/banner_800x300.png" alt="Banner: Predicción Temprana de Enfermedad de la Papa">
+  <img class="banner" src="banner.png" alt="Banner: Predicción Temprana de Enfermedad de la Papa">
 
   <!-- AUTORES -->
   <div class="section">
