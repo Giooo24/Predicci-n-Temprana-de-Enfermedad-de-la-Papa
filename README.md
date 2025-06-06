@@ -2,36 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>README – Predicción Temprana de Enfermedad de la Papa</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    .banner {
-      width: 800px;
-      height: 300px;
-      object-fit: cover;
-      border: 1px solid #ddd;
-    }
-    .section {
-      margin-top: 30px;
-    }
-    ul li {
-      margin-bottom: 8px;
-    }
-    .links a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    .links a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
 
