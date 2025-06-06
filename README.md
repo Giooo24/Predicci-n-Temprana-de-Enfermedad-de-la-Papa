@@ -103,7 +103,7 @@
         <a href="https://www.youtube.com/watch?v=tu_video_demo" target="_blank">Video</a>
       </li>
       <li><strong>Diapositivas:</strong>  
-        <a href="https://drive.google.com/file/d/tu_id_de_slides/view" target="_blank">Diapositivas</a>
+        <a href="https://gamma.app/docs/Prediccion-Temprana-de-Enfermedades-de-la-Papa-ythc4bhet2pgwbj" target="_blank">Diapositivas</a>
       </li>
     </ul>
   </div>
