@@ -62,11 +62,10 @@
         <li><strong>Healthy:</strong> 152 imágenes</li>
       </ul>
       <strong>Link de descarga:</strong>  
-      <a href="https://www.kaggle.com/datasets/hafiznouman786/potato-plant-diseases-data/data">h🌱 Potato Plant Diseases Data 🍂</a>
+      <a href="https://www.kaggle.com/datasets/hafiznouman786/potato-plant-diseases-data/data">🌱 Potato Plant Diseases Data 🍂</a>
       <br>
       <strong>Instrucciones de descarga:</strong>
       <ol>
-        <li>Crear una cuenta en <a href="https://www.kaggle.com" target="_blank">Kaggle</a> (si no se tiene).</li>
         <li>Ir a la página del dataset (“🌱 Potato Plant Diseases Data 🍂”).</li>
         <li>Hacer clic en “Download” para obtener el archivo ZIP.</li>
         <li>Descomprimir localmente o en Google Colab para usar <code>ImageDataGenerator</code> con la carpeta resultante.</li>
@@ -98,7 +97,6 @@
     <ul>
       <li><strong>Colab:</strong>  
         <a href="https://colab.research.google.com/drive/1sqc2a0olCq_D2CA7blORzmApqvht4yYR?usp=sharing" target="_blank">EfficientNetB3</a>
-      </li>
         <a href="https://drive.google.com/file/d/10cQ-qTSYqTFmVX-SFUUwH1ar7drUeFtX/view?usp=sharing" target="_blank">VGG16</a>
       </li>
       <li><strong>Video demostrativo:</strong>  
