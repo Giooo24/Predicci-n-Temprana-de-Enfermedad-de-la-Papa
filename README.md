@@ -42,7 +42,7 @@
   <!-- AUTORES -->
   <div class="section">
     <h2>Autores</h2>
-    <p>Andrés Felipe Escalante Portilla, Edinson Giovanny Ojeda Ortega, Santiago Peña</p>
+    <p>Andrés Felipe Escalante Portilla, Edinson Giovanny Ojeda Ortega, Breyner Santiago Peña Bello</p>
   </div>
 
   <!-- OBJETIVO -->
