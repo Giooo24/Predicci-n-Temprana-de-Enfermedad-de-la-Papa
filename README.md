@@ -69,8 +69,8 @@
         <a href="https://colab.research.google.com/drive/1sqc2a0olCq_D2CA7blORzmApqvht4yYR?usp=sharing" target="_blank">EfficientNetB3</a>
         <a href="https://drive.google.com/file/d/10cQ-qTSYqTFmVX-SFUUwH1ar7drUeFtX/view?usp=sharing" target="_blank">VGG16</a>
       </li>
-      <li><strong>Video demostrativo:</strong>  
-        <a href="https://www.youtube.com/watch?v=tu_video_demo" target="_blank">Video</a>
+      <li><strong>Videos:</strong>  
+        <a href="https://drive.google.com/file/d/1f5tfo4VPtz-6TdtjXPpEljSYcFIRjd1G/view?usp=sharing" target="_blank">Videos</a>
       </li>
       <li><strong>Diapositivas:</strong>  
         <a href="https://gamma.app/docs/Prediccion-Temprana-de-Enfermedades-de-la-Papa-ythc4bhet2pgwbj" target="_blank">Diapositivas</a>
